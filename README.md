@@ -1,2 +1,2 @@
 # Graduate-thesis-repository
-Graduate thesis
+Here is the repository for me to upload documents of the graduate thesis, including the original chinese thesis, translated-english version, and short, main result summary.
